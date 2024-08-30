@@ -1,0 +1,104 @@
+{
+  "socialMediaLinks": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/search/top?q={query}"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/search?q={query}"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/explore/tags/{query}/"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/search/results/all/?keywords={query}"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/results?search_query={query}"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/search/?q={query}"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/search?q={query}"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/search/pins/?q={query}"
+    },
+    {
+      "name": "Tumblr",
+      "url": "https://www.tumblr.com/search/{query}"
+    },
+    {
+      "name": "Snapchat",
+      "url": "https://story.snapchat.com/search?q={query}"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/search?q={query}"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com/search?q={query}"
+    },
+    {
+      "name": "Flickr",
+      "url": "https://www.flickr.com/search/?text={query}"
+    },
+    {
+      "name": "Quora",
+      "url": "https://www.quora.com/search?q={query}"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/search?q={query}"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/search?q={query}"
+    },
+    {
+      "name": "SoundCloud",
+      "url": "https://soundcloud.com/search?q={query}"
+    },
+    {
+      "name": "Vine",
+      "url": "https://vine.co/search/{query}"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://s.weibo.com/weibo/{query}"
+    },
+    {
+      "name": "Periscope",
+      "url": "https://www.pscp.tv/search?q={query}"
+    },
+    {
+      "name": "Meetup",
+      "url": "https://www.meetup.com/find/?keywords={query}"
+    },
+    {
+      "name": "MySpace",
+      "url": "https://myspace.com/search?q={query}"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/search?content=projects&sort=appreciations&time=week&search={query}"
+    },
+    {
+      "name": "DeviantArt",
+      "url": "https://www.deviantart.com/search?q={query}"
+    },
+    {
+      "name": "Goodreads",
+      "url": "https://www.goodreads.com/search?q={query}"
+    }
+  ]
+}
